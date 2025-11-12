@@ -1,0 +1,18 @@
+export const Pages = {
+    home: 'home',
+    discover: 'discover',
+    music: 'music',
+    radio: 'radio',
+    picked: 'picked',
+    toplist: 'toplist',
+    category: 'category',
+    artist: 'artist',
+    playlist: 'playlist',
+    artistDetail: 'artistDetail',
+    movieDetail: 'movieDetail',
+    album: 'album',
+    mv: 'mv',
+    mvDetail: 'mvDetail',
+    video: 'video',
+    dj: 'dj',
+}

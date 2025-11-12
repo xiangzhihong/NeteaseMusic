@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as t,o as e}from"./index-b8DxEvin.js";const c={},r={class:"text-xl pb-5 font-bold"};function s(n,a){return e(),t("div",r,"有声电台")}const d=o(c,[["render",s]]);export{d as default};
